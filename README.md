@@ -1,0 +1,1 @@
+Rust-based web application built with the Yew framework for creating dynamic user interfaces. It utilizes Yew Router for client-side routing, Gloo Net for handling HTTP requests, and Gloo Storage for managing local storage. This project provides a robust and efficient foundation for creating an advanced login interface with state management, navigation, and data persistence.
